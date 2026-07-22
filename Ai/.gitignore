@@ -1,0 +1,7 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*
+!/.gitignore
+!genai_grade_system_assignment.py
+!test_genai_grade_system_assignment.py
+!grade_system.py
+!GenAI_Architect_Grade_System_Assignment\ (1).pdf
