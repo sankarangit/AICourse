@@ -5,6 +5,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Local/generated data files
+contacts.xlsx
+
 # Compiled extensions
 *.so
 
