@@ -1,6 +1,7 @@
 # Created by venv; see https://docs.python.org/3/library/venv.html
 *
 !/.gitignore
+!OllamaChatBot.py
 !genai_grade_system_assignment.py
 !test_genai_grade_system_assignment.py
 !grade_system.py
