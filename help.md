@@ -9,7 +9,7 @@ git init
 Whenever you modify or add code:
 git status
 git add .
-git commit -m "Oallam loacal test using python "
+git commit -m "RAG with stremlit UI DEMO "
 git push origin master
 
 To download changes from GitHub

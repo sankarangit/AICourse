@@ -1,0 +1,27 @@
+# RAG demo dependencies
+# Install with:  pip install -r requirements.txt
+
+# Core RAG building blocks (Load -> Split -> Embed -> Store -> Retrieve)
+langchain
+langchain-community
+langchain-huggingface
+langchain-openai
+
+# Free, local embedding model backend
+sentence-transformers
+
+# Free, local vector store
+faiss-cpu
+pypdf
+
+# Keyword search (used in the BM25 & Rerank notebook)
+rank-bm25
+
+# Optional: only needed for the GPT answer step in rag_demo.py
+# (the demo runs without it - it just skips generation if no API key is set)
+openai
+python-dotenv
+
+# Optional: tracking/tracing for the LangSmith demo and PDF RAG app
+# (needs a LangSmith key + LANGSMITH_TRACING=true; get a free key at smith.langchain.com)
+langsmith

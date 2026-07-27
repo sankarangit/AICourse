@@ -1,13 +1,47 @@
-# Created by venv; see https://docs.python.org/3/library/venv.html
-*
-!/.gitignore
-!OllamaChatBot.py
-!genai_grade_system_assignment.py
-!test_genai_grade_system_assignment.py
-!grade_system.py
-!daily_pyautogui_bot.py
-!playwright_assign.py
-!fastapi_app.py
-!grade_app.py
-contacts.xlsx
-!GenAI_Architect_Grade_System_Assignment\ (1).pdf
+# Standard Python ignores for the Ai folder
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+aienv/
+env/
+Include/
+Lib/
+Scripts/
+etc/
+share/
+pyvenv.cfg
+
+# Environment files
+.env
+.env.*
+
+# Editor directories
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build / distribution
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Data outputs
+daily_report_outputs/
+whatsapp_outputs/
+
+# Browser profiles contain caches and authenticated session data
+.whatsapp_playwright_profile/
+
+# Local models
+local_hf_model/
+
+# Keep project source files tracked (do not ignore .py files in this folder)
