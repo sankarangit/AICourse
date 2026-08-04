@@ -1,0 +1,51 @@
+Student_ID,Name,Email,Phone,Course,Fee_Paid,City,Enrolled_Date
+STU1001,Manoj N,manoj1@gmail.com,7240034173,Machine Learning,yes,Chennai,2/6/2025
+STU1002,Priya P,priya2@gmail.com,8027410824,Python,No,Coimbatore,20/6/2025
+STU1003,Ravi S,ravi3@gmail.com,835528,Machine Learning,NO,Chennai,29/4/2025
+STU1004,Anitha T,anitha4@gmail.com,8463336052,Python,Yes,Salem,9/2/2025
+STU1005,Karthik L,karthik5@gmail.com,9109233153,Python,NO,Coimbatore,24/6/2025
+STU1006,Deepa V,deepa6@gmail.com,9227893764,Machine Learning,Yes,Trichy,17/1/2025
+STU1007,Suresh R,suresh7@gmail.com,8714251432,ML,yes,Madurai,20/1/2025
+STU1008,Kavitha D,kavitha8@gmail.com,7504166629,Machine Learning,Yes,Coimbatore,2/5/2025
+STU1009,Rajesh R,rajesh9@gmail.com,7868793476,Machine Learning,Yes,Trichy,24/6/2025
+STU1010,Nithya V,nithya10@gmail.com,8363245262,ML,YES,Madurai,25/3/2025
+STU1011,Arun V,arun11@gmail.com,9330959272,Machine Learning,yes,Chennai,15/6/2025
+STU1012,Meena K,meena12@gmail.com,9915021,Data Science,Yes,Salem,18/4/2025
+STU1013,Santhosh L,santhosh13@gmail.com,8225627848,Machine Learning,No,Salem,14/5/2025
+STU1014,Lakshmi M,lakshmi14@gmail,9789685465,Machine Learning,yes,Salem,8/2/2025
+STU1015,Vijay V,vijay15@gmail.com,7897759113,Machine Learning,no,Madurai,15/1/2025
+STU1016,Pooja N,pooja16@gmail.com,9987348065,Machine Learning,NO,Coimbatore,12/2/2025
+STU1017,Dinesh M,dinesh17@gmail.com,8721116273,Python,yes,Madurai,17/5/2025
+STU1018,Saranya N,saranya18@gmail.com,9210894455,Python,no,Coimbatore,14/4/2025
+STU1019,Bala L,bala19@gmail.com,8225002448,Python,YES,Madurai,17/6/2025
+STU1020,Revathi P,revathi20@gmail.com,9554503059,Data Science,Yes,Trichy,24/3/2025
+STU1021,Muthu S,muthu21@gmail.com,8350546428,Machine Learning,YES,Chennai,19/5/2025
+STU1022,Geetha D,geetha22@gmail.com,8573184690,Machine Learning,Yes,Madurai,10/2/2025
+STU1023,Prasanth L,prasanth23@gmail.com,9320303450,ML,NO,Coimbatore,8/3/2025
+STU1024,Divya L,divya24@gmail.com,7798446390,ML,YES,Salem,20/2/2025
+STU1025,Senthil K,senthil25@gmail.com,8726326068,Python,No,Madurai,15/6/2025
+STU1026,Janaki S,janaki26@gmail.com,7609060178,Data Science,no,Coimbatore,23/4/2025
+STU1027,Ramesh L,ramesh27@gmail,8279336683,Data Science,NO,Trichy,28/2/2025
+STU1028,Keerthi T,keerthi28@gmail.com,7046720267,Data Science,No,Madurai,22/6/2025
+STU1029,Harish P,harish29@gmail.com,9727135342,Data Science,no,Madurai,4/4/2025
+STU1030,Swathi R,swathi30@gmail.com,7371672121,Data Science,YES,Trichy,30/1/2025
+STU1031,Ajith L,ajith31@gmail.com,7803144579,Python,no,Salem,1/6/2025
+STU1032,Naveen M,naveen32@gmail.com,7761237469,Python,no,Chennai,28/5/2025
+STU1033,Gayathri T,gayathri33@gmail.com,9186172472,Python,NO,Chennai,24/4/2025
+STU1034,Pradeep R,pradeep34@gmail.com,8131996532,Machine Learning,no,Salem,2/1/2025
+STU1035,Shalini K,shalini35@gmail.com,7097457895,Python,No,Madurai,29/1/2025
+STU1036,Vignesh L,vignesh36@gmail.com,7648058778,ML,NO,Coimbatore,5/3/2025
+STU1037,Aarthi R,aarthi37@gmail.com,7818958139,Python,yes,Salem,2/3/2025
+STU1038,Mohan T,mohan38@gmail.com,9490704392,Python,YES,Trichy,12/3/2025
+STU1039,Kiran D,kiran39@gmail.com,8531512572,Python,no,Coimbatore,26/4/2025
+STU1040,Sindhu V,sindhu40@gmail.com,8163484414,Machine Learning,No,Salem,13/2/2025
+STU1041,Vasanth K,vasanth41@gmail.com,7247059406,Python,NO,Chennai,31/5/2025
+STU1042,Hemalatha T,hemalatha42@gmail.com,7802593459,Data Science,no,Salem,11/4/2025
+STU1043,Rohit L,rohit43@gmail.com,9382203068,Python,yes,Trichy,3/4/2025
+STU1044,Sneha S,sneha44@gmail.com,9318074770,Python,YES,Madurai,12/2/2025
+STU1045,Ganesh K,ganesh45@gmail.com,7349790102,Python,No,Madurai,24/1/2025
+STU1046,Preethi M,preethi46@gmail.com,9225661403,Python,YES,Trichy,4/1/2025
+STU1047,Kumar L,kumar47@gmail.com,7068950800,ML,YES,Madurai,23/4/2025
+STU1048,Sathya K,sathya48@gmail.com,7173317013,Python,NO,Salem,8/4/2025
+STU1049,Arthi R,arthi49@gmail.com,7781665842,Python,Yes,Salem,10/5/2025
+STU1050,Vinoth N,vinoth50@gmail.com,9864276212,Python,yes,Trichy,27/6/2025
